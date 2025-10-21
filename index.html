@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="utils.css" type="text/css">
+</head>
+<body>
+    <h1 class="title">Calculator</h1>
+    <div class="container">
+        <input id="display" class="input" type="text" readonly/>
+        <div id="keys" class="row">
+            <button class="button" data-value="C" title="Clear"><i class="fas fa-trash"></i></button>
+            <button class="button" data-value="backspace" title="Backspace"><i class="fas fa-backspace"></i></button>
+            <button class="button" data-value="%" title="Percent"><i class="fas fa-percent"></i></button>
+            <button class="button" data-value="-" title="Subtract"><i class="fas fa-minus"></i></button>
+
+            <button class="button" data-value="7" title="7">7</button>
+            <button class="button" data-value="8" title="8">8</button>
+            <button class="button" data-value="9" title="9">9</button>
+            <button class="button" data-value="*" title="Multiply"><i class="fas fa-times"></i></button>
+
+            <button class="button" data-value="4" title="4">4</button>
+            <button class="button" data-value="5" title="5">5</button>
+            <button class="button" data-value="6" title="6">6</button>
+            <button class="button" data-value="/" title="Divide"><i class="fas fa-divide"></i></button>
+
+            <button class="button" data-value="1" title="1">1</button>
+            <button class="button" data-value="2" title="2">2</button>
+            <button class="button" data-value="3" title="3">3</button>
+            <button class="button" data-value="+" title="Add"><i class="fas fa-plus"></i></button>
+
+            <button class="button" data-value="0" title="0">0</button>
+            <button class="button" data-value="00" title="00">00</button>
+            <button class="button" data-value="." title="Decimal">.</button>
+            <button class="button" id="btn" data-value="=" title="Equals"><i class="fas fa-equals"></i></button>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
