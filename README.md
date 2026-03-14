@@ -6,7 +6,7 @@
 
 A sleek, modern calculator web application designed with a neumorphic UI, offering a smooth and intuitive user experience. Built using pure HTML, CSS, and JavaScript, this calculator supports basic arithmetic operations, percentage calculations, and features responsive design for seamless use across devices.
 
-![Calculator Preview](https://via.placeholder.com/600x400?text=Calculator+Preview)
+![Calculator Preview](https://placehold.co/600x400?text=Calculator+Preview)
 
 ## ✨ Features
 
