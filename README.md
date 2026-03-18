@@ -1,8 +1,5 @@
 # 🧮 Calculator
 
-[![GitHub stars](https://img.shields.io/github/stars/vishwaswami24/Calculator?style=social)](https://github.com/vishwaswami24/Calculator/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/vishwaswami24/Calculator?style=social)](https://github.com/vishwaswami24/Calculator/network)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
