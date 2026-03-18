@@ -9,7 +9,7 @@
 
 A sleek, modern calculator web application designed with a neumorphic UI, offering a smooth and intuitive user experience. Built using pure HTML, CSS, and JavaScript, this calculator supports basic arithmetic operations, percentage calculations, and features responsive design for seamless use across devices.
 
-![Calculator Preview](https://via.placeholder.com/600x400?text=Calculator+Preview)
+<img width="1899" height="926" alt="image" src="https://github.com/user-attachments/assets/fc25c1db-c65b-42f9-8aa0-c241c3f1780f" />
 
 ## ✨ Features
 
@@ -20,6 +20,7 @@ A sleek, modern calculator web application designed with a neumorphic UI, offeri
 | 🗑️ | Clear (C) function to reset display |
 | % | Percentage calculation |
 | . | Decimal point support |
+| 🧠 | Memory functions: MC (clear), MR (recall), M+ (add), M- (subtract) |
 | 📱 | Responsive design for all screen sizes |
 | 🎨 | Modern UI with gradients and shadows |
 
@@ -29,7 +30,7 @@ A sleek, modern calculator web application designed with a neumorphic UI, offeri
 - **CSS3** - Styling with gradients and neumorphic effects
 - **JavaScript (ES6)** - Calculator logic
 - [Font Awesome](https://fontawesome.com) - Icons
-- [Google Fonts](https://fonts.google.com) - Roboto font
+- [Google Fonts](https://fonts.google.com) - Roboto font (used for modern typography)
 
 ## 🚀 Getting Started
 
@@ -63,13 +64,17 @@ bash
 
 | Button | Action |
 |--------|--------|
-| 0-9 | Input digits |
+| 0-9, 00 | Input digits |
 | + - * / | Arithmetic operations |
 | = | Calculate result |
 | C | Clear display |
-| ← | Delete last character |
+| ← | Delete last character (backspace) |
 | % | Percentage calculation |
 | . | Decimal point |
+| MC | Memory clear |
+| MR | Memory recall |
+| M+ | Add display to memory |
+| M- | Subtract display from memory |
 
 ## 📁 Project Structure
 
