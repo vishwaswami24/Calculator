@@ -6,6 +6,8 @@
 
 A sleek, modern calculator web application designed with a neumorphic UI, offering a smooth and intuitive user experience. Built using pure HTML, CSS, and JavaScript, this calculator supports basic arithmetic operations, percentage calculations, and features responsive design for seamless use across devices.
 
+<img width="1899" height="926" alt="image" src="https://github.com/user-attachments/assets/fc25c1db-c65b-42f9-8aa0-c241c3f1780f" />
+
 ## ✨ Features
 
 | Feature | Description |
